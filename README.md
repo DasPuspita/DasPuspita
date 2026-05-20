@@ -1,6 +1,32 @@
 ![logo](https://github.com/DasPuspita/DasPuspita/blob/main/1358310.png)
 <h1 align="center">Hi 👋, I'm Puspita Das</h1>
-<h3 align="center">Computer Science graduate with a passion for Front-End development, Graphic Desgin and Natural Language Processing (NLP). Skilled at tranforming concepts and data into insightful knowledge and producing captivating designs and websites.</h3>
+<h3 align="center">Everything seemed impossible until I met “Hello, World!”
+
+I am currently pursuing an MSc in Computer Science at the University of East London, with a strong focus on Data Analytics and Cloud Computing.
+
+I completed my BSc in Computer Science and Engineering from BRAC University, where I conducted research on a Customer Support Bot for Travel Agencies using Natural Language Processing. This research strengthened my foundation in applied machine learning, analytical thinking, and problem-solving.
+
+Currently, I am building practical expertise in:
+
+• Data Analysis & Visualization (Power BI, Tableau, Excel)
+• SQL for structured data management
+• Python for data processing and automation
+• Cloud Fundamentals (Microsoft Azure & AWS)
+• Version Control using Git
+
+Through hands-on projects and virtual industry simulations, I have developed the ability to transform raw data into actionable insights and understand how cloud technologies enable scalable and efficient digital solutions.
+
+In addition to data and cloud technologies, I have experience in:
+
+• Web Development (HTML, CSS, Django, MVC architecture, MySQL, PHP, React JS)
+• Machine Learning fundamentals using Python
+• Basic front-end technologies and UI-focused development
+
+I am particularly interested in roles that combine data-driven decision-making, business intelligence, and cloud-enabled systems within financial, consulting, and enterprise environments.
+
+My goal is to contribute to organisations that value analytical thinking, continuous learning, and technology-driven innovation while continuing to grow as a Data and Cloud professional.
+
+I am actively seeking graduate or entry-level opportunities in Data Analytics and Cloud-focused IT roles in the UK.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
